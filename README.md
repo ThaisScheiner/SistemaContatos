@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Contatos Virtual
 # Usando C# com ASP.NET MVC + SQLServer
-## Sistema de um projeto realizado através de estudo de um curso para Criação de um sistema de contatos, 
+## Sistema de um projeto realizado através de estudo de um curso para Criação de um sistema de contatos 
 
 Código para funcionar a paginação e a tradução dos componentes de busca
 
