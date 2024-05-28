@@ -1,5 +1,5 @@
-# Sistema de Cadastro de Contatos Virtual
-# Usando C# com ASP.NET MVC + SQLServer
+# Sistema de Cadastro de Contatos Virtual, com C# com ASP.NET MVC + SQLServer
+
 ## Projeto de um sistema realizado através de estudo de um curso para Criação de um sistema de contatos 
 Usei validação de campos, para que nao possam ser gravados em branco,
 nas senhas usei configurações de criptografia, para que no banco a senha do usuário seje preservada,
